@@ -3,11 +3,11 @@ During a critical security incident, executives play a pivotal role by understan
 
 ## Key attributes:
 - Length: Short
-- Timeline: Transparent
-- Update: Includes mitigation steps 
+- Purpose: Transparently provide timeline of events 
+- Update: Periodic and includes mitigation steps 
 - Tone: Urgent and professional
 
-## Email template
+## Message template
 
 **Subject: Time Sensitive Security Update**
 
@@ -34,11 +34,11 @@ Customer communication during a cyber incident is crucial because it fosters tru
 
 ## Key attributes:
 - Length: Concise
-- Timeline: Maintain milestones
-- Update: Next steps 
+- Purpose: Provide notification, summary of incident 
+- Update: Next steps and information on how the organization will help 
 - Tone: Professional and empathetic
 
-## Email template
+## Message template
 
 **Subject: Important Information Regarding Your Data Security**
 
@@ -70,3 +70,39 @@ We will continue to provide updates as they become available.
 
 Sincerely,
 The OmniRetail Solutions Team
+
+# Employee Communications
+
+## Key attributes:
+- Length: Concise
+- Purpose: Encourage coordination and alignment
+- Update: Next steps 
+- Tone: Professional and empathetic
+
+
+## Message template
+
+**Subject: Important Information Regarding Your Data Security**
+
+Dear Valued Customer,
+
+We are writing to inform you about a recent data security incident that affected some of our customer records. We understand this news may be concerning, and we want to be transparent about the situation.
+
+**What Happened:** On May 1, 2024, OmniRetail Solutions identified unauthorized access to our network. Attackers exploited a security vulnerability and accessed the Personally Identifiable Information (PII) of approximately 1 million customers. This data included names, addresses, phone numbers, email addresses, and dates of birth.
+
+**What We Are Doing:**
+
+- We have contained the breach and secured our systems. A thorough investigation is underway to determine the full scope of the incident.
+- We are working with legal counsel to address potential legal and regulatory ramifications.
+- We are conducting a comprehensive review of our data security protocols to prevent similar incidents in the future.
+
+**What You Can Do:** Out of an abundance of caution, we recommend taking the following steps:
+- Be cautious of phishing emails or suspicious links. Do not click on unfamiliar links or attachments, and verify the sender before responding to emails.
+- Practice strong cyber hygiene. Check out [this page] with our organization's training courses and other resources from Cybersecurity Awareness Month.
+- Report any suspicious activity immediately. If you notice any unusual activity on your work accounts or systems, please report it to the Security team right away.
+
+**For More Information:** For further details or if you have any questions, please visit our wiki page at [link to dedicated information page on your infranet]. We will continue to provide updates as they become available.
+
+Sincerely, 
+The OmniRetail Solutions Team
+Slack channel/Security Resource page
