@@ -21,13 +21,14 @@ OmniRetail Solutions Security team identified a security incident that involved 
 - May 1, 2024 10:00 am - Confirmed access to PII as part of the incident
 
 ### Mitigation Status
-Outside Counsel and a specialized forensics firm were has engaged on 04/26
-The incident was mitigated on 04/27 when the unauthorized access was revoked.
-Additional scans of the environment were completed since  4/27 -  did not identify any additional critical vulnerabilities on our external facing servers.
-The leaked documents were not seen online or on the darkweb at this point.
+- Outside Counsel and a specialized forensics firm were has engaged on 04/26
+- The incident was mitigated on 04/27 when the unauthorized access was revoked.
+- Additional scans of the environment were completed since  4/27 -  did not identify any additional critical vulnerabilities on our external facing servers.
+- The leaked documents were not seen online or on the darkweb at this point.
 
 ### Next Steps:
 The investigation of the incident is still on-going and could reveal additional exposure. Daily briefing will be held going forward at 8 am and 4 pm PT.  
+
 Given the known data exposure, we are under the 72 hour reporting window and will need to complete both regulatory reporting and customer notification by May 4, 10 am PT. 
 
 Sincerely,
