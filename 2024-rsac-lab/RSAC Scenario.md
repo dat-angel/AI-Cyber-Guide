@@ -22,3 +22,4 @@ UK: 160,018
 Japan: 956
 Singapore: 5,432
 US: 833,594 (including 65,021 in California and 150,872 in New York) 1.
+
