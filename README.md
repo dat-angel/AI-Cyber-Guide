@@ -84,7 +84,5 @@ Key files:
 
 We welcome contributions from the security community. If you'd like to stay connected or get involved with The AI Cyber Guide, reach out:
 
-- Website: [AI Cyber Guide](https://www.aicyberguide.com/)
 - LinkedIn: [Renana Friedlich](https://www.linkedin.com/in/renana-friedlich-barsky-aa523049/) and [Beatriz Datangel](https://www.linkedin.com/in/bzdata)
-- Email: hello@aicyberguide.com
 
